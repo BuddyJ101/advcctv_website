@@ -1,0 +1,273 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 40px;
+    overflow-x: hidden;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    overflow-x: hidden;
+    font-size:18px;
+    color:black;
+}
+
+.body-content {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+p {
+    font-size: 16px;
+}
+
+form {
+    width: 80vw; 
+    margin-left: 0;
+    margin-right: auto;
+}
+
+.form-container {
+    margin: 0 auto;
+    text-align: left; 
+    padding: 20px;
+    background-color: rgba(220, 220, 220, 0.5);
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+    .form-container .form-label,
+    .form-container .form-control,
+    .form-container textarea {
+        text-align: left; 
+        width: 100%;
+    }
+
+    .form-container button {
+        display: block;
+        margin: 20px auto 0;
+    }
+
+
+.field-validation-error {
+    color: #b94a48;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #b94a48;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #b94a48;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+.scr-container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+.container {
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+h1,.h1{
+    font-size:50px;
+}
+
+h2,.h2{
+    font-size:36px;
+}
+
+h3,.h3{
+    font-size:24px;
+}
+
+.custom-line {
+    width: 60vw;
+    border: none;
+    height: 2px;
+    opacity: 1; 
+    margin-top: 0; 
+    padding: 0;
+}
+
+.btn,.scroll-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #666666;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-top:20px;
+}
+
+    .btn:hover, .scroll-button:hover {
+        background-color: #ffffff;
+        color: black;
+    }
+
+    .btn:disabled {
+        background-color: #d3d3d3;
+        color: #a9a9a9;
+        cursor: not-allowed;
+    }
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 20px !important;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.row-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.service-card {
+    background: #f8f8f8;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+    .service-card:hover {
+        transform: translateY(-10px);
+    }
+
+.service-thumb {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.service-img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.content {
+    margin-top: 15px;
+}
+
+.service-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.service-description {
+    font-size: 1em;
+    color: #666;
+    line-height: 1.5;
+}
+
+.button-container {
+    display: flex;
+    gap: 100px;
+}
+
+.button {
+    background-color: #4e6790;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 1.2em;
+    border-radius: 50px;
+    transition: background-color 0.3s;
+    width:150px;
+}
+
+.button:hover {
+    background-color: #6384b8;
+}
+
+@media (max-width: 768px) {
+    .service-card {
+        margin-right: 0;
+    }
+    
+    .button-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+.navbar .active {
+    color: #00eeff;
+    transition: all 0.3s ease-in-out;
+}
+
+
+@media (max-width: 576px) {
+    .navbar-fixed-top {
+        position: relative !important;
+    }
+
+    .navbar {
+        margin-top: 0 !important;
+    }
+
+    html {
+        scroll-padding-top: 0px;
+    }
+
+    body{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .scr-container {
+        padding-top: 0px;
+    }
+
+    .container-fluid{
+        margin-top:-20px;
+    }
+
+    .full-width-sm {
+        display: block;
+        width: 100%;
+    }
+}

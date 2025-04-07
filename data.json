@@ -1,0 +1,85 @@
+{
+    "email": {
+        "from": "*",
+        "to": "*",
+        "password": "*"
+    },
+    "background": {
+        "border": "#333333",
+        "color": "#000000",
+        "lineColor": "#999",
+        "text": "#999"
+    },
+    "head": {
+        "title": "Advanced Surveillance",
+        "favicon": "/images/favicon.png"
+    },
+  "header": {
+    "appTitle": "Advanced Surveillance"
+  },
+  "home": {
+    "color": "#1562cf",
+    "imgPath": "/images/b3.jpg",
+    "title": "Welcome to Advanced Surveillance",
+    "body": "For all your technology needs."
+  },
+  "about": {
+    "color": "#FF6961",
+    "imgPath": "/images/b1.jpg",
+    "title": "About us",
+    "body": "Advanced Surveillance specializes in CCTV Surveillance, Access Control, Biometric and Networking Technologies. We have been in operation for over 10 years in the Eastern Cape with our offices located in Port Elizabeth.<br>We are well established in the CCTV and Access Control Markets and with a wide range of products, we are able to put together Best-Of-Breed solutions for our clients.<br>Our CCTV product range includes Analogue CCTV solutions, HDCVI High Definition Analogue solutions, Hybrid IP-Analogue solutions, basic IP Solutions, High End Integrated IP Based solutions and integrated solutions tailored specifically for the retail environment.<br>Our Access Control Product range includes entry level single door controllers, Biometric Fingerprint Controllers as well as high end Multi Door, Multi Site Network Access Control systems.<br>We also specialise in maintenance and installation of Public Address Systems, School Intercom Systems, Nurse Call Systems and Emergency Call Intercom Systems.<br>Our experience and product knowledge, together with our eagerness to provide our clients with the best suited solutions and service at the best possible price, have enabled us to establish good ongoing business relationships with our clients.<br>We also maintain a strong relationship with all our suppliers to ensure that we stay informed about new technology as well as technical development so that in turn we can continue to provide our clients with the best possible service and advice."
+  },
+  "services": {
+    "color": "#1562cf",
+    "imgPath": "",
+    "title": "Our Services",
+    "body": "We offer a variety of Services, such as:",
+    "services": {
+      "service1": {
+        "img": "/images/cctv.png",
+        "title": "CCTV Surveillance",
+        "body": "<p>We offers solutions for all your surveillance needs, from small entry-level standalone analogue systems to high-end multi-site integrated IP solutions. We don’t just sell cameras; we conduct a full analysis of your needs and provide a best-of-breed solution tailored to meet those needs.</p>        <p>We focus on providing solutions that grow and adapt as your requirements evolve. Our goal is to form long-lasting relationships with our clients, offering guidance as both your business and technology change. We also ensure that our solutions are fully integrated to make sure your technology works for you.</p>        <h3>Unified Security Solutions</h3>        <p>Our integrated security solutions combine Access Control and Surveillance into a unified platform, streamlining your security management and ensuring complete coverage.</p>        <h3>Retail-Specific Integration</h3>        <p>We provide integration specifically for the retail industry, ensuring full integration between your Point of Sale (POS), Receiving, and Surveillance systems for improved oversight and control.</p>        <h3>24/7 Control Room Monitoring</h3>        <p>Our control room monitors CCTV installations for alarm signals and failures, notifying us immediately if any failures occur. This allows us to contact our clients as soon as a fault condition arises, ensuring your system is always running at optimal performance and that your security is never compromised when you need it most.</p>    "
+      },
+
+      "service2": {
+        "img": "/images/school.png",
+        "title": "School Intercoms",
+        "body": "<p>We offer a range of intercom products specifically designed for school applications.</p><h3>M-Series School Intercom</h3><p>The <strong>M-Series School Intercom</strong> is a cost-effective, reliable solution that meets the basic needs of schools. It features a single master station for making announcements to all classrooms or selected classrooms. Two-way communication between classrooms and the master station is possible, with the option of a call-back button on the classroom unit. Amplified horn speakers are available for outdoor areas. The M-Series is available in standard configurations of 20-way, 40-way, or 60-way systems.</p><h3>SLSI-Series Intercom</h3><p>The <strong>SLSI-Series Intercom</strong> is a microprocessor-controlled solution that offers more flexibility with programming options and group setups, allowing paging to specific groups of classrooms. The system can be expanded by adding additional modules, supporting up to 184 stations. It can also be configured with multiple master stations, enabling announcements from different points.</p>"
+      },
+      "service3": {
+        "img": "/images/access.png",
+        "title": "Access Control",
+        "body": "<p>We specialize in a wide range of <strong>Access Control</strong> solutions, from <strong>small standalone systems</strong> to <strong>multi-site integrated network access control systems</strong>. Our solutions incorporate cutting-edge biometric and RFID technologies to ensure <strong>secure, reliable, and scalable</strong> access management for businesses of all sizes.</p><h3>Biometric Solutions</h3><ul><li><strong>Sagem</strong> – A global leader in <strong>biometric technology</strong>, Sagem provides high-security solutions used in military applications, now available for commercial use. Their <strong>biometric readers</strong> offer <strong>seamless integration</strong> into new or existing access control systems, ensuring <strong>accurate authentication and workforce management</strong>.</li>  <li><strong>Virdi</strong> – Known for its <strong>user-friendly</strong> biometric systems, Virdi's <strong>Uni-Works Time & Attendance Module</strong> simplifies <strong>shift management, payroll integration, and attendance tracking</strong>. Ideal for <strong>SOHO and small businesses</strong>, Virdi solutions enhance <strong>security and workforce efficiency</strong>.</li></ul><h3>RFID & Multi-Site Access Control</h3><ul>  <li><strong>Impro Technologies</strong> – A <strong>South African leader</strong> in access control, Impro offers solutions that exceed international standards, catering to <strong>homes, offices, and large-scale enterprises</strong>.</li>  <ul>    <li><strong>IXP20</strong> – Perfect for <strong>homes and offices</strong>, supporting <strong>up to 8 doors and 1,000 tagholders</strong>, with a <strong>built-in touchscreen and web-based interface</strong>.</li>    <li><strong>IXP220</strong> – Designed for <strong>seamless scalability</strong>, expanding from <strong>1 to 256 doors</strong> and <strong>up to 1,000 independent sites</strong> while maintaining a consistent hardware and software suite.</li>    <li><strong>IXP400</strong> – The <strong>flagship</strong> of the Impro range, securing <strong>prestigious sites</strong> with <strong>support for up to 3,000 doors, 300,000 tagholders, and 256 sites per system</strong>. This system enables full <strong>integration with CCTV, alarms, and access control</strong> for a <strong>comprehensive security solution</strong>.</li>  </ul></ul><p>Whether you need a <strong>simple access control system</strong> or a <strong>fully integrated multi-site security solution</strong>, Advanced Surveillance delivers <strong>cutting-edge technology</strong> to protect your business and assets.</p>"
+      },
+
+      "service4": {
+        "img": "/images/retail.png",
+        "title": "Retail Surveillance",
+        "body": "        <p>The <strong>Ultimate Retail Solution</strong> is specifically designed for the retail industry to provide an easy-to-use tool for controlling pilfering at the Point of Sale, Scales, Receiving, and Dispatch Areas.</p>        <p>This is achieved by integrating the surveillance system with the point of sale system, offering quick and easy visual search capabilities to monitor events such as Voids, Refunds, No Sale, or any POS transaction processed by your system.</p>        <p>The <strong>Ultimate Retail Solution</strong> takes the traditional Text Overlay function and revolutionizes it into the next generation of intelligent video surveillance, helping you reduce pilfering in your store.</p>"
+      },
+      "service5": {
+        "img": "/images/cable.png",
+        "title": "Cabling Solutions",
+        "body": "<p>With over 20 years of experience in cabling and infrastructure planning, <strong>Advanced Surveillance</strong> offers professional and easy-to-manage network installations. We use only high-quality cables and equipment to ensure a stable backbone for your network operations. All our installations, both voice and data, are labelled and tested for seamless management.</p><h3>Fibre Optic Installations</h3><p>We provide fibre optic installations using high-quality Telkom-spec fibre cables and accessories. All fibre connections are terminated on fibre patch panels for efficient management. Additionally, all fibre installations are thoroughly tested, and printed test results are provided to ensure optimal performance.</p>"
+      }
+    }
+  },
+  "contact": {
+    "color": "#1562cf",
+    "imgPath": "/images/b2.jpg",
+    "title": "GET IN TOUCH",
+    "body": "Contact us for more information, or to make an appointment with a security consultant to evaluate your site and to provide you with a free proposal for the best solution suited to your specific needs",
+    "email":"service@adspe.co.za",
+    "number":"+27861486555"
+  },
+  "footer": {
+    "number1": "+27 86 148 6555",
+    "number2": "+27 86 671 3930",
+    "email": "service@adspe.co.za",
+    "outro": "Contact us for a free, no obligation quote."
+  },
+  "maker": {
+    "poweredBy": "Junaid",
+    "website": "https://buddyj101.github.io/"
+  }
+}
