@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    fetch("https://raw.githubusercontent.com/BuddyJ101/advcctv_website/main/data.json")
+    fetch("data.json")
         .then(response => response.json())
         .then(data => {
             // Update colors
