@@ -36,7 +36,7 @@
     "body": "We offer a variety of Services, such as:",
     "services": {
       "service1": {
-        "img": "/images/cctv.png",
+        "img": "images/cctv.png",
         "title": "CCTV Surveillance",
         "body": "<p>We offers solutions for all your surveillance needs, from small entry-level standalone analogue systems to high-end multi-site integrated IP solutions. We don’t just sell cameras; we conduct a full analysis of your needs and provide a best-of-breed solution tailored to meet those needs.</p>        <p>We focus on providing solutions that grow and adapt as your requirements evolve. Our goal is to form long-lasting relationships with our clients, offering guidance as both your business and technology change. We also ensure that our solutions are fully integrated to make sure your technology works for you.</p>        <h3>Unified Security Solutions</h3>        <p>Our integrated security solutions combine Access Control and Surveillance into a unified platform, streamlining your security management and ensuring complete coverage.</p>        <h3>Retail-Specific Integration</h3>        <p>We provide integration specifically for the retail industry, ensuring full integration between your Point of Sale (POS), Receiving, and Surveillance systems for improved oversight and control.</p>        <h3>24/7 Control Room Monitoring</h3>        <p>Our control room monitors CCTV installations for alarm signals and failures, notifying us immediately if any failures occur. This allows us to contact our clients as soon as a fault condition arises, ensuring your system is always running at optimal performance and that your security is never compromised when you need it most.</p>    "
       },
